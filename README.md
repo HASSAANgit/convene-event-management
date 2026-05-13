@@ -1,4 +1,4 @@
-# EventSphere — MERN Stack Event Management Platform
+# Convene — MERN Stack Event Management Platform
 
 A full-featured event management web application built with the **MERN stack** (MongoDB, Express.js, React, Node.js).
 
